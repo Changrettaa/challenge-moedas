@@ -30,7 +30,7 @@ Este é um badge conquistado por ter desenvolvido este projeto com a Alura no pr
 
 1. Clone este repositório em sua máquina local:
 ```
-git clone https://github.com/rodrigoborge/conversor-moedas-java.git
+git clone https://github.com/Changrettaa/challenge-moedas.git
 ```
 2. Navegue até o diretório do projeto:
 ```
